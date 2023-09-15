@@ -221,9 +221,7 @@ label #cancel {
 }
 
 /* sliding cards styling */
-.sliding-card-container{
-    border: 1px solid red;
-}
+
 .sliding-card-container .head{
     margin: 2rem 0;
     line-height: 3rem;   
@@ -328,7 +326,7 @@ label #cancel {
     margin: auto;
     margin-top: 20px;
     margin-bottom: 60px;
-    border: 1px solid red;
+
 }
 .Product1-explanation-container .content{
     width: 50%;
@@ -369,7 +367,6 @@ label #cancel {
 /* styling product2 container */
 
 .Product2-explanation-container {
-    border: 2px solid red;
     width: 70%;
     height: 99vh;
     display: flex;
@@ -439,7 +436,6 @@ label #cancel {
     width: 100%;
     height: 100%;
     background-color: rgb(252, 240, 244);
-    border: 1px solid red;
 }
 .journal-container h1{
     text-align: center;
